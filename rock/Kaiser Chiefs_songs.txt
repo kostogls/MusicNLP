@@ -1,0 +1,1 @@
+['Ruby', 'I Predict a Riot', 'Everyday I Love You Less and Less', 'Oh My God', 'Record Collection', 'Never Miss A Beat', 'The Angry Mob', 'The Factory Gates', 'Modern Way', 'Coming Home', 'Love’s Not A Competition (But I’m Winning)', 'Bows And Arrows', 'Parachute', 'Hole In My Soul', 'Cannons', 'Golden Oldies', 'You Can Have It All', 'We Stay Together', 'Wait', 'Na Na Na Na Naa']

@@ -1,0 +1,1 @@
+['Sunny Lion', 'Mury', 'Wędrówka Z Cieniem', 'Rozczochrany Łeb', 'Antylitania Na Czasy Przejściowe', 'Rasta Trans', 'Familijna Komitywa', 'Takie Jest Życie W Miejskiej Dżungli', 'Modlitwa O Wschodzie Słońca', 'Bob Marley', 'Mit Ukuty', 'Krzyk', 'Zostanę Politykiem', 'Bądź Silny', 'Krajobraz Po Uczcie', 'Rege Tonite', 'Pra-Ład', 'Jasność', 'Jestem Twój', 'Kryzys']

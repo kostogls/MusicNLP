@@ -1,0 +1,1 @@
+['Paranoid', 'Iron Man', 'War Pigs', 'N.I.B.', 'Heaven and Hell', 'Black Sabbath', 'Planet Caravan', 'Changes', 'Sabbath Bloody Sabbath', 'Sweet Leaf', 'Children of the Grave', 'Fairies Wear Boots', 'Electric Funeral', 'God Is Dead?', 'Hand of Doom', 'Snowblind', 'Solitude', 'Into the Void', 'The Wizard', 'Warning']

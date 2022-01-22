@@ -1,0 +1,1 @@
+['Mercedes Benz', 'Me and Bobby McGee', 'Piece of My Heart', 'Cry Baby', 'Kozmic Blues', 'Maybe', 'Move Over', 'Little Girl Blue', 'To Love Somebody', 'A Woman Left Lonely', 'Get It While You Can', 'Summertime', 'Try (Just a Little Bit Harder)', 'Trust Me', 'Call On Me', 'Down On Me', 'Half Moon', 'One Good Man', 'Work Me, Lord', 'Bye, Bye Baby']

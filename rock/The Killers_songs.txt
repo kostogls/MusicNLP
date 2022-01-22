@@ -1,0 +1,1 @@
+['Mr. Brightside', 'Human', 'Somebody Told Me', 'All These Things That I’ve Done', 'The Man', 'When You Were Young', 'Read My Mind', 'Run for Cover', 'Jenny Was a Friend of Mine', 'Spaceman', 'Smile Like You Mean It', 'Runaways', 'Here with Me', 'Miss Atomic Bomb', 'Caution', 'My Own Soul’s Warning', 'A Dustland Fairytale', 'The Calling', 'Rut', 'Andy, You’re a Star']

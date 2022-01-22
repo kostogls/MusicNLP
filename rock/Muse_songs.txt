@@ -1,0 +1,1 @@
+['Uprising', 'Madness', 'Pressure', 'Supermassive Black Hole', 'Starlight', 'Feeling Good', 'Psycho', 'Mercy', 'Plug In Baby', 'Knights of Cydonia', 'Hysteria', 'Dead Inside', 'The Dark Side', 'Resistance', 'Reapers', 'Time Is Running Out', 'Thought Contagion', 'New Born', 'Undisclosed Desires', 'Stockholm Syndrome']
